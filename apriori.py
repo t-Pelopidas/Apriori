@@ -5,7 +5,7 @@ import pandas as pd
 #Read the dataset to a dataframe
 df = pd.read_csv('Groceries_dataset.csv')
 
-basket = df.groupby(['Member_number', 'Date'])
+basket = (df.groupby(['Member_number', 'Date', 'itemDescription'])['itemDescription']
+          .count().unstack().reset_index().fillna(0).drop(['Member_number', 'Date'], axis=1))
 
 print(basket)
-
