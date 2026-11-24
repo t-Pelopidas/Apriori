@@ -1,0 +1,168 @@
+NEXT ITERATION
+['Instant food products'] 60
+['UHT-milk'] 323
+['abrasive cleaner'] 22
+['artif. sweetener'] 29
+['baby cosmetics'] 3
+['bags'] 4
+['baking powder'] 122
+['bathroom cleaner'] 17
+['beef'] 516
+['berries'] 327
+['beverages'] 251
+['bottled beer'] 687
+['bottled water'] 933
+['brandy'] 38
+['brown bread'] 571
+['butter'] 534
+['butter milk'] 263
+['cake bar'] 93
+['candles'] 66
+['candy'] 219
+['canned beer'] 717
+['canned fish'] 116
+['canned fruit'] 21
+['canned vegetables'] 82
+['cat food'] 177
+['cereals'] 42
+['chewing gum'] 181
+['chicken'] 422
+['chocolate'] 357
+['chocolate marshmallow'] 60
+['citrus fruit'] 812
+['cleaner'] 31
+['cling film/bags'] 74
+['cocoa drinks'] 16
+['coffee'] 476
+['condensed milk'] 98
+['cooking chocolate'] 15
+['cookware'] 17
+['cream'] 12
+['cream cheese'] 358
+['curd'] 514
+['curd cheese'] 46
+['decalcifier'] 9
+['dental care'] 33
+['dessert'] 356
+['detergent'] 130
+['dish cleaner'] 73
+['dishes'] 135
+['dog food'] 67
+['domestic eggs'] 566
+['female sanitary products'] 40
+['finished products'] 64
+['fish'] 29
+['flour'] 146
+['flower (seeds)'] 70
+['flower soil/fertilizer'] 16
+['frankfurter'] 580
+['frozen chicken'] 5
+['frozen dessert'] 92
+['frozen fish'] 102
+['frozen fruits'] 11
+['frozen meals'] 252
+['frozen potato products'] 72
+['frozen vegetables'] 425
+['fruit/vegetable juice'] 518
+['grapes'] 220
+['hair spray'] 9
+['ham'] 256
+['hamburger meat'] 327
+['hard cheese'] 220
+['herbs'] 159
+['honey'] 13
+['house keeping products'] 45
+['hygiene articles'] 208
+['ice cream'] 227
+['instant coffee'] 61
+['jam'] 34
+['ketchup'] 32
+['kitchen towels'] 30
+['kitchen utensil'] 1
+['light bulbs'] 29
+['liqueur'] 9
+['liquor'] 103
+['liquor (appetizer)'] 67
+['liver loaf'] 50
+['long life bakery product'] 269
+['make up remover'] 5
+['male cosmetics'] 37
+['margarine'] 491
+['mayonnaise'] 75
+['meat'] 254
+['meat spreads'] 35
+['misc. beverages'] 238
+['mustard'] 92
+['napkins'] 335
+['newspapers'] 596
+['nut snack'] 22
+['nuts/prunes'] 33
+['oil'] 225
+['onions'] 305
+['organic products'] 10
+['organic sausage'] 22
+['other vegetables'] 1898
+['packaged fruit/vegetables'] 128
+['pasta'] 121
+['pastry'] 785
+['pet care'] 85
+['photo/film'] 79
+['pickled vegetables'] 134
+['pip fruit'] 744
+['popcorn'] 48
+['pork'] 566
+['pot plants'] 118
+['potato products'] 23
+['preservation products'] 1
+['processed cheese'] 152
+['prosecco'] 19
+['pudding powder'] 17
+['ready soups'] 15
+['red/blush wine'] 157
+['rice'] 49
+['roll products'] 82
+['rolls/buns'] 1716
+['root vegetables'] 1071
+['rubbing alcohol'] 5
+['rum'] 32
+['salad dressing'] 6
+['salt'] 89
+['salty snack'] 283
+['sauces'] 44
+['sausage'] 924
+['seasonal products'] 106
+['semi-finished bread'] 142
+['shopping bags'] 731
+['skin care'] 20
+['sliced cheese'] 212
+['snack products'] 27
+['soap'] 20
+['soda'] 1514
+['soft cheese'] 152
+['softener'] 41
+['soups'] 48
+['sparkling wine'] 46
+['specialty bar'] 210
+['specialty cheese'] 72
+['specialty chocolate'] 240
+['specialty fat'] 29
+['specialty vegetables'] 11
+['spices'] 40
+['spread cheese'] 100
+['sugar'] 265
+['sweet spreads'] 69
+['syrup'] 21
+['tea'] 27
+['tidbits'] 22
+['toilet cleaner'] 5
+['tropical fruit'] 1032
+['turkey'] 80
+['vinegar'] 51
+['waffles'] 280
+['whipped/sour cream'] 662
+['whisky'] 8
+['white bread'] 362
+['white wine'] 176
+['whole milk'] 2502
+['yogurt'] 1334
+['zwieback'] 60
