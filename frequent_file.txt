@@ -1,0 +1,1152 @@
+Frequent list for k = 1
+['Instant food products'] 60
+['UHT-milk'] 320
+['abrasive cleaner'] 22
+['artif. sweetener'] 29
+['baking powder'] 121
+['bathroom cleaner'] 17
+['beef'] 508
+['berries'] 326
+['beverages'] 248
+['bottled beer'] 678
+['bottled water'] 908
+['brandy'] 38
+['brown bread'] 563
+['butter'] 527
+['butter milk'] 263
+['cake bar'] 92
+['candles'] 66
+['candy'] 215
+['canned beer'] 702
+['canned fish'] 115
+['canned fruit'] 21
+['canned vegetables'] 82
+['cat food'] 177
+['cereals'] 42
+['chewing gum'] 180
+['chicken'] 417
+['chocolate'] 353
+['chocolate marshmallow'] 60
+['citrus fruit'] 795
+['cleaner'] 31
+['cling film/bags'] 74
+['cocoa drinks'] 16
+['coffee'] 473
+['condensed milk'] 98
+['cooking chocolate'] 15
+['cookware'] 17
+['cream'] 12
+['cream cheese'] 354
+['curd'] 504
+['curd cheese'] 46
+['dental care'] 33
+['dessert'] 353
+['detergent'] 129
+['dish cleaner'] 73
+['dishes'] 135
+['dog food'] 67
+['domestic eggs'] 555
+['female sanitary products'] 40
+['finished products'] 64
+['fish'] 29
+['flour'] 146
+['flower (seeds)'] 69
+['flower soil/fertilizer'] 16
+['frankfurter'] 565
+['frozen dessert'] 92
+['frozen fish'] 102
+['frozen fruits'] 11
+['frozen meals'] 251
+['frozen potato products'] 72
+['frozen vegetables'] 419
+['fruit/vegetable juice'] 509
+['grapes'] 216
+['ham'] 256
+['hamburger meat'] 327
+['hard cheese'] 220
+['herbs'] 158
+['honey'] 13
+['house keeping products'] 45
+['hygiene articles'] 205
+['ice cream'] 227
+['instant coffee'] 59
+['jam'] 34
+['ketchup'] 32
+['kitchen towels'] 30
+['light bulbs'] 29
+['liquor'] 103
+['liquor (appetizer)'] 67
+['liver loaf'] 50
+['long life bakery product'] 268
+['male cosmetics'] 37
+['margarine'] 482
+['mayonnaise'] 75
+['meat'] 252
+['meat spreads'] 35
+['misc. beverages'] 236
+['mustard'] 92
+['napkins'] 331
+['newspapers'] 582
+['nut snack'] 22
+['nuts/prunes'] 33
+['oil'] 223
+['onions'] 303
+['organic products'] 10
+['organic sausage'] 22
+['other vegetables'] 1827
+['packaged fruit/vegetables'] 127
+['pasta'] 121
+['pastry'] 774
+['pet care'] 85
+['photo/film'] 79
+['pickled vegetables'] 134
+['pip fruit'] 734
+['popcorn'] 48
+['pork'] 555
+['pot plants'] 117
+['potato products'] 23
+['processed cheese'] 152
+['prosecco'] 19
+['pudding powder'] 17
+['ready soups'] 15
+['red/blush wine'] 157
+['rice'] 49
+['roll products'] 82
+['rolls/buns'] 1646
+['root vegetables'] 1041
+['rum'] 32
+['salt'] 89
+['salty snack'] 281
+['sauces'] 44
+['sausage'] 903
+['seasonal products'] 106
+['semi-finished bread'] 142
+['shopping bags'] 712
+['skin care'] 20
+['sliced cheese'] 210
+['snack products'] 27
+['soap'] 20
+['soda'] 1453
+['soft cheese'] 150
+['softener'] 41
+['soups'] 48
+['sparkling wine'] 46
+['specialty bar'] 209
+['specialty cheese'] 72
+['specialty chocolate'] 239
+['specialty fat'] 29
+['specialty vegetables'] 11
+['spices'] 40
+['spread cheese'] 100
+['sugar'] 265
+['sweet spreads'] 68
+['syrup'] 21
+['tea'] 27
+['tidbits'] 22
+['tropical fruit'] 1014
+['turkey'] 80
+['vinegar'] 51
+['waffles'] 277
+['whipped/sour cream'] 654
+['white bread'] 359
+['white wine'] 175
+['whole milk'] 2363
+['yogurt'] 1285
+['zwieback'] 60
+Frequent list for k = 2
+['UHT-milk', 'bottled beer'] 14
+['UHT-milk', 'bottled water'] 16
+['UHT-milk', 'citrus fruit'] 12
+['UHT-milk', 'cream cheese'] 13
+['UHT-milk', 'frankfurter'] 14
+['UHT-milk', 'newspapers'] 10
+['UHT-milk', 'other vegetables'] 32
+['UHT-milk', 'pastry'] 14
+['UHT-milk', 'pip fruit'] 13
+['UHT-milk', 'pork'] 11
+['UHT-milk', 'rolls/buns'] 27
+['UHT-milk', 'root vegetables'] 15
+['UHT-milk', 'sausage'] 17
+['UHT-milk', 'shopping bags'] 11
+['UHT-milk', 'soda'] 19
+['UHT-milk', 'tropical fruit'] 23
+['UHT-milk', 'whole milk'] 38
+['UHT-milk', 'yogurt'] 17
+['baking powder', 'whole milk'] 13
+['baking powder', 'yogurt'] 10
+['beef', 'berries'] 11
+['beef', 'bottled beer'] 16
+['beef', 'bottled water'] 20
+['beef', 'brown bread'] 23
+['beef', 'butter'] 17
+['beef', 'butter milk'] 11
+['beef', 'canned beer'] 15
+['beef', 'chocolate'] 13
+['beef', 'citrus fruit'] 27
+['beef', 'coffee'] 14
+['beef', 'curd'] 19
+['beef', 'domestic eggs'] 17
+['beef', 'frankfurter'] 15
+['beef', 'frozen meals'] 10
+['beef', 'frozen vegetables'] 19
+['beef', 'fruit/vegetable juice'] 16
+['beef', 'long life bakery product'] 10
+['beef', 'margarine'] 21
+['beef', 'misc. beverages'] 10
+['beef', 'newspapers'] 25
+['beef', 'other vegetables'] 42
+['beef', 'pastry'] 18
+['beef', 'pip fruit'] 13
+['beef', 'pork'] 14
+['beef', 'rolls/buns'] 24
+['beef', 'root vegetables'] 25
+['beef', 'salty snack'] 10
+['beef', 'sausage'] 13
+['beef', 'shopping bags'] 19
+['beef', 'soda'] 27
+['beef', 'specialty chocolate'] 10
+['beef', 'tropical fruit'] 17
+['beef', 'waffles'] 13
+['beef', 'whipped/sour cream'] 21
+['beef', 'white bread'] 13
+['beef', 'whole milk'] 70
+['beef', 'yogurt'] 33
+['berries', 'bottled beer'] 13
+['berries', 'bottled water'] 16
+['berries', 'butter'] 12
+['berries', 'canned beer'] 10
+['berries', 'coffee'] 11
+['berries', 'fruit/vegetable juice'] 13
+['berries', 'newspapers'] 10
+['berries', 'other vegetables'] 40
+['berries', 'pastry'] 16
+['berries', 'pip fruit'] 17
+['berries', 'rolls/buns'] 25
+['berries', 'root vegetables'] 16
+['berries', 'sausage'] 13
+['berries', 'shopping bags'] 10
+['berries', 'soda'] 22
+['berries', 'tropical fruit'] 19
+['berries', 'whipped/sour cream'] 10
+['berries', 'white bread'] 10
+['berries', 'whole milk'] 34
+['berries', 'yogurt'] 21
+['beverages', 'bottled water'] 16
+['beverages', 'curd'] 10
+['beverages', 'other vegetables'] 26
+['beverages', 'pip fruit'] 11
+['beverages', 'rolls/buns'] 18
+['beverages', 'root vegetables'] 11
+['beverages', 'sausage'] 23
+['beverages', 'soda'] 28
+['beverages', 'tropical fruit'] 10
+['beverages', 'whole milk'] 29
+['beverages', 'yogurt'] 14
+['bottled beer', 'bottled water'] 38
+['bottled beer', 'brown bread'] 23
+['bottled beer', 'butter'] 25
+['bottled beer', 'candy'] 10
+['bottled beer', 'canned beer'] 28
+['bottled beer', 'cat food'] 12
+['bottled beer', 'chicken'] 15
+['bottled beer', 'chocolate'] 15
+['bottled beer', 'citrus fruit'] 25
+['bottled beer', 'coffee'] 14
+['bottled beer', 'cream cheese'] 11
+['bottled beer', 'curd'] 17
+['bottled beer', 'domestic eggs'] 25
+['bottled beer', 'frankfurter'] 25
+['bottled beer', 'frozen meals'] 13
+['bottled beer', 'frozen vegetables'] 21
+['bottled beer', 'fruit/vegetable juice'] 25
+['bottled beer', 'grapes'] 10
+['bottled beer', 'hamburger meat'] 16
+['bottled beer', 'hard cheese'] 11
+['bottled beer', 'hygiene articles'] 11
+['bottled beer', 'ice cream'] 10
+['bottled beer', 'margarine'] 16
+['bottled beer', 'misc. beverages'] 11
+['bottled beer', 'newspapers'] 26
+['bottled beer', 'oil'] 14
+['bottled beer', 'onions'] 10
+['bottled beer', 'other vegetables'] 70
+['bottled beer', 'pastry'] 31
+['bottled beer', 'pip fruit'] 23
+['bottled beer', 'pork'] 16
+['bottled beer', 'rolls/buns'] 60
+['bottled beer', 'root vegetables'] 37
+['bottled beer', 'sausage'] 50
+['bottled beer', 'shopping bags'] 22
+['bottled beer', 'soda'] 44
+['bottled beer', 'sugar'] 12
+['bottled beer', 'tropical fruit'] 38
+['bottled beer', 'waffles'] 11
+['bottled beer', 'whipped/sour cream'] 18
+['bottled beer', 'white bread'] 12
+['bottled beer', 'whole milk'] 107
+['bottled beer', 'yogurt'] 51
+['bottled water', 'brown bread'] 23
+['bottled water', 'butter'] 27
+['bottled water', 'butter milk'] 11
+['bottled water', 'canned beer'] 22
+['bottled water', 'chicken'] 20
+['bottled water', 'chocolate'] 21
+['bottled water', 'citrus fruit'] 39
+['bottled water', 'coffee'] 23
+['bottled water', 'cream cheese'] 14
+['bottled water', 'curd'] 29
+['bottled water', 'dessert'] 16
+['bottled water', 'domestic eggs'] 32
+['bottled water', 'flour'] 11
+['bottled water', 'frankfurter'] 33
+['bottled water', 'frozen meals'] 12
+['bottled water', 'frozen vegetables'] 16
+['bottled water', 'fruit/vegetable juice'] 18
+['bottled water', 'grapes'] 11
+['bottled water', 'ham'] 10
+['bottled water', 'hamburger meat'] 12
+['bottled water', 'hard cheese'] 14
+['bottled water', 'hygiene articles'] 10
+['bottled water', 'long life bakery product'] 10
+['bottled water', 'margarine'] 21
+['bottled water', 'meat'] 12
+['bottled water', 'napkins'] 14
+['bottled water', 'newspapers'] 27
+['bottled water', 'onions'] 15
+['bottled water', 'other vegetables'] 82
+['bottled water', 'pastry'] 43
+['bottled water', 'pip fruit'] 30
+['bottled water', 'pork'] 21
+['bottled water', 'processed cheese'] 11
+['bottled water', 'rolls/buns'] 70
+['bottled water', 'root vegetables'] 52
+['bottled water', 'salty snack'] 11
+['bottled water', 'sausage'] 47
+['bottled water', 'shopping bags'] 30
+['bottled water', 'soda'] 72
+['bottled water', 'specialty bar'] 14
+['bottled water', 'sugar'] 22
+['bottled water', 'tropical fruit'] 53
+['bottled water', 'waffles'] 11
+['bottled water', 'whipped/sour cream'] 27
+['bottled water', 'white bread'] 19
+['bottled water', 'whole milk'] 107
+['bottled water', 'yogurt'] 57
+['brandy', 'whole milk'] 13
+['brown bread', 'butter'] 15
+['brown bread', 'butter milk'] 10
+['brown bread', 'canned beer'] 36
+['brown bread', 'chicken'] 12
+['brown bread', 'chocolate'] 14
+['brown bread', 'citrus fruit'] 26
+['brown bread', 'coffee'] 12
+['brown bread', 'curd'] 18
+['brown bread', 'dessert'] 11
+['brown bread', 'domestic eggs'] 18
+['brown bread', 'frankfurter'] 23
+['brown bread', 'frozen vegetables'] 14
+['brown bread', 'fruit/vegetable juice'] 14
+['brown bread', 'ham'] 13
+['brown bread', 'hamburger meat'] 11
+['brown bread', 'margarine'] 13
+['brown bread', 'napkins'] 11
+['brown bread', 'newspapers'] 14
+['brown bread', 'other vegetables'] 46
+['brown bread', 'pastry'] 30
+['brown bread', 'pip fruit'] 25
+['brown bread', 'pork'] 25
+['brown bread', 'rolls/buns'] 50
+['brown bread', 'root vegetables'] 20
+['brown bread', 'salty snack'] 14
+['brown bread', 'sausage'] 27
+['brown bread', 'shopping bags'] 19
+['brown bread', 'soda'] 43
+['brown bread', 'tropical fruit'] 22
+['brown bread', 'waffles'] 11
+['brown bread', 'whipped/sour cream'] 16
+['brown bread', 'white bread'] 15
+['brown bread', 'whole milk'] 67
+['brown bread', 'yogurt'] 35
+['butter', 'butter milk'] 11
+['butter', 'canned beer'] 15
+['butter', 'chicken'] 12
+['butter', 'chocolate'] 13
+['butter', 'citrus fruit'] 29
+['butter', 'coffee'] 13
+['butter', 'cream cheese'] 10
+['butter', 'curd'] 11
+['butter', 'dessert'] 10
+['butter', 'domestic eggs'] 12
+['butter', 'frankfurter'] 21
+['butter', 'frozen vegetables'] 11
+['butter', 'fruit/vegetable juice'] 21
+['butter', 'ice cream'] 10
+['butter', 'long life bakery product'] 10
+['butter', 'margarine'] 21
+['butter', 'newspapers'] 21
+['butter', 'other vegetables'] 43
+['butter', 'pastry'] 23
+['butter', 'pip fruit'] 17
+['butter', 'pork'] 12
+['butter', 'rolls/buns'] 43
+['butter', 'root vegetables'] 30
+['butter', 'sausage'] 29
+['butter', 'shopping bags'] 20
+['butter', 'soda'] 47
+['butter', 'tropical fruit'] 23
+['butter', 'whipped/sour cream'] 17
+['butter', 'whole milk'] 70
+['butter', 'yogurt'] 33
+['butter milk', 'canned beer'] 12
+['butter milk', 'citrus fruit'] 14
+['butter milk', 'long life bakery product'] 10
+['butter milk', 'margarine'] 10
+['butter milk', 'other vegetables'] 19
+['butter milk', 'rolls/buns'] 19
+['butter milk', 'root vegetables'] 15
+['butter milk', 'sausage'] 12
+['butter milk', 'shopping bags'] 15
+['butter milk', 'soda'] 21
+['butter milk', 'tropical fruit'] 15
+['butter milk', 'whole milk'] 25
+['butter milk', 'yogurt'] 19
+['cake bar', 'sausage'] 10
+['cake bar', 'whole milk'] 11
+['candles', 'whole milk'] 11
+['candy', 'citrus fruit'] 15
+['candy', 'other vegetables'] 17
+['candy', 'rolls/buns'] 22
+['candy', 'soda'] 19
+['candy', 'tropical fruit'] 12
+['candy', 'whole milk'] 32
+['candy', 'yogurt'] 18
+['canned beer', 'chicken'] 17
+['canned beer', 'chocolate'] 16
+['canned beer', 'citrus fruit'] 23
+['canned beer', 'coffee'] 15
+['canned beer', 'cream cheese'] 11
+['canned beer', 'curd'] 18
+['canned beer', 'dessert'] 14
+['canned beer', 'dishes'] 11
+['canned beer', 'domestic eggs'] 18
+['canned beer', 'frankfurter'] 20
+['canned beer', 'frozen meals'] 10
+['canned beer', 'frozen vegetables'] 20
+['canned beer', 'fruit/vegetable juice'] 23
+['canned beer', 'ham'] 12
+['canned beer', 'hygiene articles'] 11
+['canned beer', 'ice cream'] 12
+['canned beer', 'long life bakery product'] 10
+['canned beer', 'margarine'] 18
+['canned beer', 'napkins'] 10
+['canned beer', 'newspapers'] 28
+['canned beer', 'onions'] 14
+['canned beer', 'other vegetables'] 60
+['canned beer', 'pastry'] 28
+['canned beer', 'pip fruit'] 24
+['canned beer', 'pork'] 25
+['canned beer', 'rolls/buns'] 63
+['canned beer', 'root vegetables'] 31
+['canned beer', 'salty snack'] 15
+['canned beer', 'sausage'] 37
+['canned beer', 'shopping bags'] 28
+['canned beer', 'soda'] 47
+['canned beer', 'specialty bar'] 10
+['canned beer', 'specialty chocolate'] 12
+['canned beer', 'sugar'] 10
+['canned beer', 'tropical fruit'] 38
+['canned beer', 'waffles'] 10
+['canned beer', 'whipped/sour cream'] 23
+['canned beer', 'white bread'] 23
+['canned beer', 'whole milk'] 90
+['canned beer', 'yogurt'] 58
+['canned fish', 'rolls/buns'] 14
+['canned fish', 'whole milk'] 14
+['canned fish', 'yogurt'] 11
+['canned vegetables', 'whole milk'] 14
+['cat food', 'citrus fruit'] 11
+['cat food', 'fruit/vegetable juice'] 11
+['cat food', 'other vegetables'] 11
+['cat food', 'rolls/buns'] 16
+['cat food', 'soda'] 12
+['cat food', 'tropical fruit'] 15
+['cat food', 'whole milk'] 25
+['chewing gum', 'citrus fruit'] 10
+['chewing gum', 'coffee'] 10
+['chewing gum', 'newspapers'] 12
+['chewing gum', 'other vegetables'] 16
+['chewing gum', 'pastry'] 13
+['chewing gum', 'rolls/buns'] 13
+['chewing gum', 'root vegetables'] 10
+['chewing gum', 'sausage'] 11
+['chewing gum', 'soda'] 15
+['chewing gum', 'whole milk'] 25
+['chewing gum', 'yogurt'] 21
+['chicken', 'citrus fruit'] 18
+['chicken', 'coffee'] 12
+['chicken', 'curd'] 17
+['chicken', 'domestic eggs'] 15
+['chicken', 'frankfurter'] 11
+['chicken', 'fruit/vegetable juice'] 11
+['chicken', 'hygiene articles'] 10
+['chicken', 'margarine'] 15
+['chicken', 'newspapers'] 14
+['chicken', 'onions'] 12
+['chicken', 'other vegetables'] 33
+['chicken', 'pastry'] 19
+['chicken', 'pip fruit'] 16
+['chicken', 'rolls/buns'] 43
+['chicken', 'root vegetables'] 15
+['chicken', 'sausage'] 16
+['chicken', 'shopping bags'] 19
+['chicken', 'soda'] 32
+['chicken', 'tropical fruit'] 21
+['chicken', 'waffles'] 12
+['chicken', 'whipped/sour cream'] 19
+['chicken', 'white bread'] 11
+['chicken', 'whole milk'] 51
+['chicken', 'yogurt'] 27
+['chocolate', 'citrus fruit'] 16
+['chocolate', 'domestic eggs'] 12
+['chocolate', 'frankfurter'] 11
+['chocolate', 'fruit/vegetable juice'] 10
+['chocolate', 'margarine'] 11
+['chocolate', 'other vegetables'] 28
+['chocolate', 'pastry'] 11
+['chocolate', 'pip fruit'] 20
+['chocolate', 'rolls/buns'] 42
+['chocolate', 'root vegetables'] 18
+['chocolate', 'sausage'] 21
+['chocolate', 'shopping bags'] 13
+['chocolate', 'soda'] 25
+['chocolate', 'tropical fruit'] 21
+['chocolate', 'whole milk'] 44
+['chocolate', 'yogurt'] 24
+['chocolate marshmallow', 'whole milk'] 10
+['citrus fruit', 'coffee'] 20
+['citrus fruit', 'cream cheese'] 15
+['citrus fruit', 'curd'] 17
+['citrus fruit', 'dessert'] 13
+['citrus fruit', 'domestic eggs'] 19
+['citrus fruit', 'frankfurter'] 26
+['citrus fruit', 'frozen vegetables'] 24
+['citrus fruit', 'fruit/vegetable juice'] 20
+['citrus fruit', 'ham'] 13
+['citrus fruit', 'hamburger meat'] 11
+['citrus fruit', 'hard cheese'] 11
+['citrus fruit', 'ice cream'] 10
+['citrus fruit', 'long life bakery product'] 11
+['citrus fruit', 'margarine'] 17
+['citrus fruit', 'napkins'] 21
+['citrus fruit', 'newspapers'] 18
+['citrus fruit', 'oil'] 11
+['citrus fruit', 'onions'] 10
+['citrus fruit', 'other vegetables'] 72
+['citrus fruit', 'pastry'] 32
+['citrus fruit', 'pip fruit'] 22
+['citrus fruit', 'pork'] 20
+['citrus fruit', 'rolls/buns'] 70
+['citrus fruit', 'root vegetables'] 33
+['citrus fruit', 'salty snack'] 10
+['citrus fruit', 'sausage'] 18
+['citrus fruit', 'shopping bags'] 27
+['citrus fruit', 'soda'] 56
+['citrus fruit', 'specialty bar'] 14
+['citrus fruit', 'specialty chocolate'] 21
+['citrus fruit', 'sugar'] 12
+['citrus fruit', 'tropical fruit'] 43
+['citrus fruit', 'waffles'] 14
+['citrus fruit', 'whipped/sour cream'] 31
+['citrus fruit', 'white bread'] 17
+['citrus fruit', 'white wine'] 10
+['citrus fruit', 'whole milk'] 107
+['citrus fruit', 'yogurt'] 69
+['cling film/bags', 'whole milk'] 10
+['coffee', 'curd'] 10
+['coffee', 'domestic eggs'] 21
+['coffee', 'frankfurter'] 22
+['coffee', 'frozen vegetables'] 10
+['coffee', 'fruit/vegetable juice'] 11
+['coffee', 'hamburger meat'] 13
+['coffee', 'margarine'] 12
+['coffee', 'misc. beverages'] 11
+['coffee', 'napkins'] 11
+['coffee', 'newspapers'] 14
+['coffee', 'other vegetables'] 39
+['coffee', 'pastry'] 21
+['coffee', 'pip fruit'] 16
+['coffee', 'pork'] 10
+['coffee', 'rolls/buns'] 36
+['coffee', 'root vegetables'] 30
+['coffee', 'sausage'] 20
+['coffee', 'shopping bags'] 21
+['coffee', 'soda'] 37
+['coffee', 'sugar'] 12
+['coffee', 'tropical fruit'] 23
+['coffee', 'whipped/sour cream'] 13
+['coffee', 'whole milk'] 57
+['coffee', 'yogurt'] 31
+['condensed milk', 'other vegetables'] 11
+['condensed milk', 'rolls/buns'] 11
+['condensed milk', 'whole milk'] 13
+['cream cheese', 'curd'] 10
+['cream cheese', 'frankfurter'] 15
+['cream cheese', 'frozen vegetables'] 13
+['cream cheese', 'fruit/vegetable juice'] 10
+['cream cheese', 'onions'] 10
+['cream cheese', 'other vegetables'] 32
+['cream cheese', 'pastry'] 10
+['cream cheese', 'pork'] 10
+['cream cheese', 'rolls/buns'] 28
+['cream cheese', 'root vegetables'] 24
+['cream cheese', 'sausage'] 18
+['cream cheese', 'shopping bags'] 18
+['cream cheese', 'soda'] 22
+['cream cheese', 'tropical fruit'] 21
+['cream cheese', 'waffles'] 10
+['cream cheese', 'whipped/sour cream'] 12
+['cream cheese', 'whole milk'] 43
+['cream cheese', 'yogurt'] 24
+['curd', 'dessert'] 15
+['curd', 'domestic eggs'] 14
+['curd', 'frankfurter'] 20
+['curd', 'frozen meals'] 11
+['curd', 'frozen vegetables'] 11
+['curd', 'fruit/vegetable juice'] 10
+['curd', 'hamburger meat'] 10
+['curd', 'hard cheese'] 10
+['curd', 'margarine'] 16
+['curd', 'meat'] 10
+['curd', 'misc. beverages'] 10
+['curd', 'newspapers'] 10
+['curd', 'other vegetables'] 53
+['curd', 'pastry'] 21
+['curd', 'pip fruit'] 20
+['curd', 'pork'] 17
+['curd', 'rolls/buns'] 41
+['curd', 'root vegetables'] 22
+['curd', 'sausage'] 44
+['curd', 'shopping bags'] 19
+['curd', 'soda'] 42
+['curd', 'tropical fruit'] 28
+['curd', 'waffles'] 11
+['curd', 'whipped/sour cream'] 25
+['curd', 'white bread'] 13
+['curd', 'whole milk'] 62
+['curd', 'yogurt'] 34
+['dessert', 'domestic eggs'] 12
+['dessert', 'fruit/vegetable juice'] 11
+['dessert', 'margarine'] 10
+['dessert', 'newspapers'] 11
+['dessert', 'other vegetables'] 31
+['dessert', 'pastry'] 12
+['dessert', 'pip fruit'] 12
+['dessert', 'pork'] 11
+['dessert', 'rolls/buns'] 30
+['dessert', 'root vegetables'] 16
+['dessert', 'sausage'] 22
+['dessert', 'shopping bags'] 18
+['dessert', 'soda'] 22
+['dessert', 'tropical fruit'] 16
+['dessert', 'whole milk'] 36
+['dessert', 'yogurt'] 18
+['detergent', 'rolls/buns'] 15
+['detergent', 'sausage'] 11
+['detergent', 'soda'] 10
+['detergent', 'tropical fruit'] 11
+['detergent', 'whole milk'] 21
+['detergent', 'yogurt'] 16
+['dish cleaner', 'whole milk'] 13
+['dishes', 'other vegetables'] 14
+['dishes', 'pastry'] 10
+['dishes', 'rolls/buns'] 11
+['dishes', 'soda'] 10
+['dishes', 'whole milk'] 14
+['dog food', 'whole milk'] 10
+['domestic eggs', 'frankfurter'] 21
+['domestic eggs', 'frozen vegetables'] 11
+['domestic eggs', 'fruit/vegetable juice'] 16
+['domestic eggs', 'hamburger meat'] 11
+['domestic eggs', 'margarine'] 12
+['domestic eggs', 'meat'] 11
+['domestic eggs', 'newspapers'] 23
+['domestic eggs', 'other vegetables'] 53
+['domestic eggs', 'pastry'] 20
+['domestic eggs', 'pip fruit'] 13
+['domestic eggs', 'pork'] 18
+['domestic eggs', 'rolls/buns'] 51
+['domestic eggs', 'root vegetables'] 30
+['domestic eggs', 'sausage'] 27
+['domestic eggs', 'shopping bags'] 22
+['domestic eggs', 'soda'] 38
+['domestic eggs', 'tropical fruit'] 32
+['domestic eggs', 'waffles'] 13
+['domestic eggs', 'whipped/sour cream'] 13
+['domestic eggs', 'white bread'] 15
+['domestic eggs', 'whole milk'] 79
+['domestic eggs', 'yogurt'] 31
+['finished products', 'whole milk'] 13
+['flour', 'rolls/buns'] 11
+['flour', 'soda'] 13
+['flour', 'tropical fruit'] 16
+['flour', 'whipped/sour cream'] 10
+['flour', 'whole milk'] 20
+['frankfurter', 'frozen vegetables'] 16
+['frankfurter', 'fruit/vegetable juice'] 17
+['frankfurter', 'hamburger meat'] 10
+['frankfurter', 'long life bakery product'] 10
+['frankfurter', 'margarine'] 24
+['frankfurter', 'misc. beverages'] 10
+['frankfurter', 'napkins'] 14
+['frankfurter', 'newspapers'] 16
+['frankfurter', 'other vegetables'] 77
+['frankfurter', 'pastry'] 26
+['frankfurter', 'pip fruit'] 27
+['frankfurter', 'pork'] 11
+['frankfurter', 'rolls/buns'] 55
+['frankfurter', 'root vegetables'] 33
+['frankfurter', 'sausage'] 22
+['frankfurter', 'shopping bags'] 23
+['frankfurter', 'soda'] 46
+['frankfurter', 'tropical fruit'] 20
+['frankfurter', 'whipped/sour cream'] 22
+['frankfurter', 'white bread'] 11
+['frankfurter', 'whole milk'] 79
+['frankfurter', 'yogurt'] 38
+['frozen dessert', 'whole milk'] 14
+['frozen fish', 'rolls/buns'] 10
+['frozen fish', 'tropical fruit'] 11
+['frozen fish', 'whole milk'] 16
+['frozen meals', 'other vegetables'] 32
+['frozen meals', 'rolls/buns'] 22
+['frozen meals', 'root vegetables'] 12
+['frozen meals', 'sausage'] 19
+['frozen meals', 'soda'] 23
+['frozen meals', 'tropical fruit'] 12
+['frozen meals', 'whole milk'] 29
+['frozen meals', 'yogurt'] 20
+['frozen vegetables', 'fruit/vegetable juice'] 12
+['frozen vegetables', 'other vegetables'] 47
+['frozen vegetables', 'pastry'] 14
+['frozen vegetables', 'pip fruit'] 20
+['frozen vegetables', 'pork'] 11
+['frozen vegetables', 'rolls/buns'] 41
+['frozen vegetables', 'root vegetables'] 32
+['frozen vegetables', 'sausage'] 31
+['frozen vegetables', 'soda'] 30
+['frozen vegetables', 'tropical fruit'] 16
+['frozen vegetables', 'whole milk'] 57
+['frozen vegetables', 'yogurt'] 31
+['fruit/vegetable juice', 'long life bakery product'] 10
+['fruit/vegetable juice', 'margarine'] 15
+['fruit/vegetable juice', 'newspapers'] 12
+['fruit/vegetable juice', 'other vegetables'] 44
+['fruit/vegetable juice', 'pastry'] 22
+['fruit/vegetable juice', 'pip fruit'] 21
+['fruit/vegetable juice', 'pork'] 13
+['fruit/vegetable juice', 'rolls/buns'] 56
+['fruit/vegetable juice', 'root vegetables'] 27
+['fruit/vegetable juice', 'sausage'] 27
+['fruit/vegetable juice', 'shopping bags'] 10
+['fruit/vegetable juice', 'soda'] 32
+['fruit/vegetable juice', 'tropical fruit'] 32
+['fruit/vegetable juice', 'whipped/sour cream'] 13
+['fruit/vegetable juice', 'whole milk'] 66
+['fruit/vegetable juice', 'yogurt'] 33
+['grapes', 'other vegetables'] 24
+['grapes', 'pastry'] 10
+['grapes', 'rolls/buns'] 18
+['grapes', 'root vegetables'] 16
+['grapes', 'sausage'] 16
+['grapes', 'soda'] 21
+['grapes', 'tropical fruit'] 13
+['grapes', 'whipped/sour cream'] 11
+['grapes', 'whole milk'] 29
+['grapes', 'yogurt'] 14
+['ham', 'other vegetables'] 24
+['ham', 'pastry'] 12
+['ham', 'rolls/buns'] 19
+['ham', 'soda'] 18
+['ham', 'tropical fruit'] 17
+['ham', 'whipped/sour cream'] 10
+['ham', 'whole milk'] 41
+['ham', 'yogurt'] 19
+['hamburger meat', 'margarine'] 12
+['hamburger meat', 'newspapers'] 14
+['hamburger meat', 'other vegetables'] 33
+['hamburger meat', 'pastry'] 15
+['hamburger meat', 'pork'] 11
+['hamburger meat', 'rolls/buns'] 29
+['hamburger meat', 'root vegetables'] 19
+['hamburger meat', 'sausage'] 13
+['hamburger meat', 'soda'] 25
+['hamburger meat', 'tropical fruit'] 20
+['hamburger meat', 'whipped/sour cream'] 13
+['hamburger meat', 'whole milk'] 46
+['hamburger meat', 'yogurt'] 25
+['hard cheese', 'other vegetables'] 25
+['hard cheese', 'pastry'] 10
+['hard cheese', 'pip fruit'] 16
+['hard cheese', 'rolls/buns'] 25
+['hard cheese', 'root vegetables'] 15
+['hard cheese', 'sausage'] 11
+['hard cheese', 'shopping bags'] 13
+['hard cheese', 'soda'] 14
+['hard cheese', 'tropical fruit'] 12
+['hard cheese', 'whole milk'] 28
+['hard cheese', 'yogurt'] 19
+['herbs', 'other vegetables'] 13
+['herbs', 'rolls/buns'] 13
+['herbs', 'whole milk'] 17
+['herbs', 'yogurt'] 17
+['house keeping products', 'whole milk'] 11
+['hygiene articles', 'other vegetables'] 21
+['hygiene articles', 'pastry'] 11
+['hygiene articles', 'pip fruit'] 10
+['hygiene articles', 'rolls/buns'] 20
+['hygiene articles', 'root vegetables'] 15
+['hygiene articles', 'sausage'] 13
+['hygiene articles', 'soda'] 16
+['hygiene articles', 'tropical fruit'] 12
+['hygiene articles', 'whole milk'] 26
+['hygiene articles', 'yogurt'] 14
+['ice cream', 'other vegetables'] 19
+['ice cream', 'pip fruit'] 10
+['ice cream', 'rolls/buns'] 26
+['ice cream', 'root vegetables'] 11
+['ice cream', 'soda'] 18
+['ice cream', 'whole milk'] 29
+['ice cream', 'yogurt'] 14
+['liquor', 'other vegetables'] 12
+['liquor', 'whole milk'] 10
+['liquor (appetizer)', 'soda'] 10
+['liquor (appetizer)', 'whole milk'] 10
+['long life bakery product', 'napkins'] 10
+['long life bakery product', 'newspapers'] 10
+['long life bakery product', 'other vegetables'] 17
+['long life bakery product', 'pastry'] 11
+['long life bakery product', 'pork'] 13
+['long life bakery product', 'rolls/buns'] 25
+['long life bakery product', 'root vegetables'] 12
+['long life bakery product', 'sausage'] 16
+['long life bakery product', 'soda'] 20
+['long life bakery product', 'tropical fruit'] 16
+['long life bakery product', 'whole milk'] 36
+['long life bakery product', 'yogurt'] 18
+['margarine', 'newspapers'] 13
+['margarine', 'other vegetables'] 48
+['margarine', 'pastry'] 20
+['margarine', 'pip fruit'] 19
+['margarine', 'pork'] 20
+['margarine', 'rolls/buns'] 45
+['margarine', 'root vegetables'] 29
+['margarine', 'sausage'] 28
+['margarine', 'shopping bags'] 15
+['margarine', 'soda'] 39
+['margarine', 'sugar'] 10
+['margarine', 'tropical fruit'] 22
+['margarine', 'whipped/sour cream'] 17
+['margarine', 'whole milk'] 61
+['margarine', 'yogurt'] 32
+['meat', 'other vegetables'] 32
+['meat', 'pip fruit'] 14
+['meat', 'rolls/buns'] 20
+['meat', 'root vegetables'] 20
+['meat', 'soda'] 15
+['meat', 'tropical fruit'] 13
+['meat', 'whipped/sour cream'] 12
+['meat', 'whole milk'] 33
+['meat', 'yogurt'] 14
+['misc. beverages', 'other vegetables'] 18
+['misc. beverages', 'pastry'] 10
+['misc. beverages', 'rolls/buns'] 20
+['misc. beverages', 'root vegetables'] 15
+['misc. beverages', 'sausage'] 16
+['misc. beverages', 'soda'] 12
+['misc. beverages', 'whole milk'] 21
+['misc. beverages', 'yogurt'] 19
+['mustard', 'whole milk'] 14
+['mustard', 'yogurt'] 10
+['napkins', 'newspapers'] 14
+['napkins', 'other vegetables'] 32
+['napkins', 'pastry'] 26
+['napkins', 'pip fruit'] 11
+['napkins', 'pork'] 14
+['napkins', 'rolls/buns'] 26
+['napkins', 'root vegetables'] 16
+['napkins', 'sausage'] 13
+['napkins', 'shopping bags'] 13
+['napkins', 'soda'] 23
+['napkins', 'tropical fruit'] 19
+['napkins', 'whole milk'] 36
+['napkins', 'yogurt'] 26
+['newspapers', 'other vegetables'] 55
+['newspapers', 'pastry'] 30
+['newspapers', 'pip fruit'] 19
+['newspapers', 'pork'] 14
+['newspapers', 'rolls/buns'] 45
+['newspapers', 'root vegetables'] 38
+['newspapers', 'salty snack'] 12
+['newspapers', 'sausage'] 27
+['newspapers', 'shopping bags'] 27
+['newspapers', 'soda'] 35
+['newspapers', 'tropical fruit'] 28
+['newspapers', 'whipped/sour cream'] 23
+['newspapers', 'white bread'] 14
+['newspapers', 'whole milk'] 84
+['newspapers', 'yogurt'] 43
+['oil', 'other vegetables'] 27
+['oil', 'pork'] 13
+['oil', 'rolls/buns'] 20
+['oil', 'root vegetables'] 10
+['oil', 'sausage'] 11
+['oil', 'soda'] 27
+['oil', 'tropical fruit'] 11
+['oil', 'whipped/sour cream'] 11
+['oil', 'whole milk'] 29
+['oil', 'yogurt'] 16
+['onions', 'other vegetables'] 23
+['onions', 'pastry'] 13
+['onions', 'pip fruit'] 12
+['onions', 'rolls/buns'] 26
+['onions', 'root vegetables'] 20
+['onions', 'sausage'] 12
+['onions', 'soda'] 22
+['onions', 'tropical fruit'] 18
+['onions', 'whipped/sour cream'] 16
+['onions', 'whole milk'] 44
+['onions', 'yogurt'] 19
+['other vegetables', 'pastry'] 55
+['other vegetables', 'pip fruit'] 74
+['other vegetables', 'pork'] 59
+['other vegetables', 'pot plants'] 15
+['other vegetables', 'processed cheese'] 10
+['other vegetables', 'red/blush wine'] 17
+['other vegetables', 'rolls/buns'] 158
+['other vegetables', 'root vegetables'] 79
+['other vegetables', 'salty snack'] 33
+['other vegetables', 'sausage'] 90
+['other vegetables', 'semi-finished bread'] 15
+['other vegetables', 'shopping bags'] 74
+['other vegetables', 'sliced cheese'] 21
+['other vegetables', 'soda'] 145
+['other vegetables', 'soft cheese'] 18
+['other vegetables', 'specialty bar'] 25
+['other vegetables', 'specialty chocolate'] 25
+['other vegetables', 'spread cheese'] 11
+['other vegetables', 'sugar'] 19
+['other vegetables', 'tropical fruit'] 94
+['other vegetables', 'waffles'] 26
+['other vegetables', 'whipped/sour cream'] 62
+['other vegetables', 'white bread'] 39
+['other vegetables', 'white wine'] 10
+['other vegetables', 'whole milk'] 222
+['other vegetables', 'yogurt'] 121
+['packaged fruit/vegetables', 'rolls/buns'] 18
+['pasta', 'pip fruit'] 10
+['pasta', 'rolls/buns'] 11
+['pasta', 'sausage'] 11
+['pasta', 'soda'] 12
+['pasta', 'whole milk'] 16
+['pasta', 'yogurt'] 14
+['pastry', 'pip fruit'] 33
+['pastry', 'pork'] 23
+['pastry', 'rolls/buns'] 59
+['pastry', 'root vegetables'] 43
+['pastry', 'salty snack'] 10
+['pastry', 'sausage'] 48
+['pastry', 'shopping bags'] 20
+['pastry', 'sliced cheese'] 14
+['pastry', 'soda'] 61
+['pastry', 'tropical fruit'] 42
+['pastry', 'whipped/sour cream'] 23
+['pastry', 'white bread'] 12
+['pastry', 'whole milk'] 97
+['pastry', 'yogurt'] 54
+['pet care', 'whole milk'] 11
+['pickled vegetables', 'rolls/buns'] 12
+['pickled vegetables', 'soda'] 12
+['pickled vegetables', 'whole milk'] 15
+['pip fruit', 'pork'] 24
+['pip fruit', 'rolls/buns'] 74
+['pip fruit', 'root vegetables'] 40
+['pip fruit', 'salty snack'] 12
+['pip fruit', 'sausage'] 32
+['pip fruit', 'shopping bags'] 28
+['pip fruit', 'soda'] 59
+['pip fruit', 'specialty chocolate'] 10
+['pip fruit', 'tropical fruit'] 31
+['pip fruit', 'waffles'] 11
+['pip fruit', 'whipped/sour cream'] 25
+['pip fruit', 'white bread'] 14
+['pip fruit', 'white wine'] 13
+['pip fruit', 'whole milk'] 99
+['pip fruit', 'yogurt'] 54
+['pork', 'rolls/buns'] 51
+['pork', 'root vegetables'] 26
+['pork', 'sausage'] 23
+['pork', 'shopping bags'] 23
+['pork', 'soda'] 45
+['pork', 'tropical fruit'] 23
+['pork', 'whipped/sour cream'] 14
+['pork', 'whole milk'] 75
+['pork', 'yogurt'] 46
+['pot plants', 'rolls/buns'] 10
+['pot plants', 'whole milk'] 15
+['pot plants', 'yogurt'] 13
+['processed cheese', 'rolls/buns'] 22
+['processed cheese', 'root vegetables'] 16
+['processed cheese', 'whole milk'] 22
+['processed cheese', 'yogurt'] 10
+['red/blush wine', 'rolls/buns'] 20
+['red/blush wine', 'soda'] 13
+['red/blush wine', 'whole milk'] 13
+['roll products', 'whole milk'] 10
+['rolls/buns', 'root vegetables'] 86
+['rolls/buns', 'salty snack'] 29
+['rolls/buns', 'sausage'] 80
+['rolls/buns', 'seasonal products'] 15
+['rolls/buns', 'semi-finished bread'] 11
+['rolls/buns', 'shopping bags'] 71
+['rolls/buns', 'sliced cheese'] 14
+['rolls/buns', 'soda'] 121
+['rolls/buns', 'soft cheese'] 15
+['rolls/buns', 'specialty bar'] 18
+['rolls/buns', 'specialty chocolate'] 19
+['rolls/buns', 'sugar'] 13
+['rolls/buns', 'tropical fruit'] 91
+['rolls/buns', 'waffles'] 24
+['rolls/buns', 'whipped/sour cream'] 44
+['rolls/buns', 'white bread'] 32
+['rolls/buns', 'white wine'] 11
+['rolls/buns', 'whole milk'] 209
+['rolls/buns', 'yogurt'] 117
+['root vegetables', 'salty snack'] 16
+['root vegetables', 'sausage'] 50
+['root vegetables', 'semi-finished bread'] 10
+['root vegetables', 'shopping bags'] 50
+['root vegetables', 'sliced cheese'] 18
+['root vegetables', 'soda'] 79
+['root vegetables', 'specialty bar'] 10
+['root vegetables', 'specialty chocolate'] 14
+['root vegetables', 'sugar'] 13
+['root vegetables', 'tropical fruit'] 55
+['root vegetables', 'waffles'] 20
+['root vegetables', 'whipped/sour cream'] 37
+['root vegetables', 'white bread'] 19
+['root vegetables', 'white wine'] 10
+['root vegetables', 'whole milk'] 113
+['root vegetables', 'yogurt'] 64
+['salty snack', 'sausage'] 17
+['salty snack', 'shopping bags'] 13
+['salty snack', 'soda'] 21
+['salty snack', 'tropical fruit'] 15
+['salty snack', 'whole milk'] 29
+['salty snack', 'yogurt'] 23
+['sausage', 'shopping bags'] 29
+['sausage', 'sliced cheese'] 17
+['sausage', 'soda'] 89
+['sausage', 'specialty bar'] 10
+['sausage', 'sugar'] 11
+['sausage', 'tropical fruit'] 46
+['sausage', 'waffles'] 12
+['sausage', 'whipped/sour cream'] 32
+['sausage', 'white bread'] 21
+['sausage', 'white wine'] 12
+['sausage', 'whole milk'] 134
+['sausage', 'yogurt'] 86
+['seasonal products', 'soda'] 10
+['seasonal products', 'whole milk'] 10
+['semi-finished bread', 'soda'] 13
+['semi-finished bread', 'tropical fruit'] 11
+['semi-finished bread', 'whole milk'] 25
+['semi-finished bread', 'yogurt'] 13
+['shopping bags', 'sliced cheese'] 11
+['shopping bags', 'soda'] 66
+['shopping bags', 'sugar'] 10
+['shopping bags', 'tropical fruit'] 41
+['shopping bags', 'waffles'] 14
+['shopping bags', 'whipped/sour cream'] 18
+['shopping bags', 'white bread'] 13
+['shopping bags', 'white wine'] 10
+['shopping bags', 'whole milk'] 95
+['shopping bags', 'yogurt'] 53
+['sliced cheese', 'soda'] 17
+['sliced cheese', 'whole milk'] 22
+['sliced cheese', 'yogurt'] 14
+['soda', 'soft cheese'] 12
+['soda', 'specialty bar'] 19
+['soda', 'specialty chocolate'] 21
+['soda', 'sugar'] 18
+['soda', 'tropical fruit'] 81
+['soda', 'waffles'] 14
+['soda', 'whipped/sour cream'] 51
+['soda', 'white bread'] 23
+['soda', 'white wine'] 14
+['soda', 'whole milk'] 174
+['soda', 'yogurt'] 87
+['soft cheese', 'whole milk'] 18
+['soft cheese', 'yogurt'] 19
+['softener', 'whole milk'] 12
+['specialty bar', 'tropical fruit'] 13
+['specialty bar', 'whole milk'] 25
+['specialty bar', 'yogurt'] 18
+['specialty chocolate', 'tropical fruit'] 20
+['specialty chocolate', 'whole milk'] 20
+['specialty chocolate', 'yogurt'] 14
+['spread cheese', 'whole milk'] 14
+['sugar', 'tropical fruit'] 15
+['sugar', 'whole milk'] 37
+['sugar', 'yogurt'] 13
+['sweet spreads', 'tropical fruit'] 11
+['sweet spreads', 'whole milk'] 10
+['tropical fruit', 'waffles'] 17
+['tropical fruit', 'whipped/sour cream'] 37
+['tropical fruit', 'white bread'] 15
+['tropical fruit', 'whole milk'] 123
+['tropical fruit', 'yogurt'] 78
+['turkey', 'whole milk'] 11
+['waffles', 'whipped/sour cream'] 11
+['waffles', 'whole milk'] 39
+['waffles', 'yogurt'] 17
+['whipped/sour cream', 'white bread'] 15
+['whipped/sour cream', 'whole milk'] 69
+['whipped/sour cream', 'yogurt'] 44
+['white bread', 'whole milk'] 47
+['white bread', 'yogurt'] 16
+['white wine', 'whole milk'] 19
+['whole milk', 'yogurt'] 167
+Frequent list for k = 3
+['bottled beer', 'rolls/buns', 'whole milk'] 10
+['bottled water', 'soda', 'whole milk'] 12
+['canned beer', 'rolls/buns', 'whole milk'] 10
+['citrus fruit', 'rolls/buns', 'whole milk'] 10
+['citrus fruit', 'whole milk', 'yogurt'] 10
+['frankfurter', 'other vegetables', 'whole milk'] 12
+['other vegetables', 'pastry', 'whole milk'] 10
+['other vegetables', 'rolls/buns', 'sausage'] 14
+['other vegetables', 'rolls/buns', 'soda'] 17
+['other vegetables', 'rolls/buns', 'whole milk'] 18
+['other vegetables', 'root vegetables', 'whole milk'] 10
+['other vegetables', 'sausage', 'soda'] 10
+['other vegetables', 'sausage', 'whole milk'] 14
+['other vegetables', 'soda', 'whole milk'] 17
+['other vegetables', 'tropical fruit', 'whole milk'] 11
+['other vegetables', 'whole milk', 'yogurt'] 17
+['pastry', 'rolls/buns', 'whole milk'] 11
+['pastry', 'sausage', 'whole milk'] 11
+['pastry', 'soda', 'whole milk'] 14
+['pip fruit', 'rolls/buns', 'whole milk'] 10
+['rolls/buns', 'sausage', 'soda'] 10
+['rolls/buns', 'sausage', 'whole milk'] 17
+['rolls/buns', 'shopping bags', 'soda'] 10
+['rolls/buns', 'soda', 'whole milk'] 15
+['rolls/buns', 'tropical fruit', 'whole milk'] 10
+['rolls/buns', 'whole milk', 'yogurt'] 20
+['root vegetables', 'whole milk', 'yogurt'] 10
+['sausage', 'soda', 'whole milk'] 16
+['sausage', 'soda', 'yogurt'] 10
+['sausage', 'whole milk', 'yogurt'] 22
+['soda', 'tropical fruit', 'whole milk'] 10
+['soda', 'whole milk', 'yogurt'] 14
+['tropical fruit', 'whole milk', 'yogurt'] 12
