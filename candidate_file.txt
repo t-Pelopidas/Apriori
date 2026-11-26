@@ -1,4 +1,4 @@
-Next candidate
+Candidate list for k = 1
 ['Instant food products'] 60
 ['UHT-milk'] 320
 ['abrasive cleaner'] 22
@@ -166,7 +166,7 @@ Next candidate
 ['whole milk'] 2363
 ['yogurt'] 1285
 ['zwieback'] 60
-Next candidate
+Candidate list for k = 2
 ['Instant food products', 'UHT-milk'] 0
 ['Instant food products', 'abrasive cleaner'] 0
 ['Instant food products', 'artif. sweetener'] 0
@@ -11948,7 +11948,7 @@ Next candidate
 ['whole milk', 'yogurt'] 167
 ['whole milk', 'zwieback'] 7
 ['yogurt', 'zwieback'] 4
-Next candidate
+Candidate list for k = 3
 ['UHT-milk', 'bottled beer', 'bottled water'] 0
 ['UHT-milk', 'bottled beer', 'citrus fruit'] 0
 ['UHT-milk', 'bottled beer', 'cream cheese'] 0
@@ -21565,7 +21565,7 @@ Next candidate
 ['whipped/sour cream', 'white bread', 'yogurt'] 0
 ['whipped/sour cream', 'whole milk', 'yogurt'] 5
 ['white bread', 'whole milk', 'yogurt'] 4
-Next candidate
+Candidate list for k = 4
 ['other vegetables', 'rolls/buns', 'sausage', 'soda'] 4
 ['other vegetables', 'rolls/buns', 'sausage', 'whole milk'] 4
 ['other vegetables', 'rolls/buns', 'soda', 'whole milk'] 1

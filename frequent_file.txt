@@ -1,4 +1,4 @@
-Next List
+Frequent list for k = 1
 ['Instant food products'] 60
 ['UHT-milk'] 320
 ['abrasive cleaner'] 22
@@ -153,7 +153,7 @@ Next List
 ['whole milk'] 2363
 ['yogurt'] 1285
 ['zwieback'] 60
-Next List
+Frequent list for k = 2
 ['UHT-milk', 'bottled beer'] 14
 ['UHT-milk', 'bottled water'] 16
 ['UHT-milk', 'citrus fruit'] 12
@@ -1116,7 +1116,7 @@ Next List
 ['white bread', 'yogurt'] 16
 ['white wine', 'whole milk'] 19
 ['whole milk', 'yogurt'] 167
-Next List
+Frequent list for k = 3
 ['bottled beer', 'rolls/buns', 'whole milk'] 10
 ['bottled water', 'soda', 'whole milk'] 12
 ['canned beer', 'rolls/buns', 'whole milk'] 10
